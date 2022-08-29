@@ -1,0 +1,6 @@
+token:
+  expiration_time: 86400000
+  secret: jihyun_token_oops
+
+gateway:
+  ip: 192.168.5.154
